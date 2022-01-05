@@ -4,7 +4,6 @@ import 'package:sukin/ui/custom_widgets/popular_product_container.dart';
 import 'package:sukin/ui/custom_widgets/product_card.dart';
 import 'package:sukin/ui/custom_widgets/rounded_rectangle_button.dart';
 import 'package:sukin/ui/screens/details.dart';
-import 'package:sukin/utilities/animationClass.dart';
 import 'package:sukin/utilities/constant.dart';
 import 'package:sukin/utilities/product_model.dart';
 import 'package:get/get.dart';
